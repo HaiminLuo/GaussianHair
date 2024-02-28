@@ -1,0 +1,13 @@
+yacs
+numpy
+torch
+torchvision
+pytorch-ignite
+moderngl
+PIL
+argparse
+opencv-python
+pyrender
+imageio
+imageio-ffmpeg
+IPython
