@@ -34,9 +34,9 @@
     <a href='https://arxiv.org/abs/2402.10483'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
-    <a href='https://haiminluo.github.io/publication/gaussianhair/' style='padding-left: 0.5rem;'>
+    <a href='https://haiminluo.github.io/gaussianhair/' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
-    <a href='https://haiminluo.github.io/publication/gaussianhair/' style='padding-left: 0.5rem;'>
+    <a href='https://youtu.be/hmNCF5TR8sw' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Youtube-Video-red?style=flat&logo=youtube&logoColor=red' alt='Youtube Video'>
     </a>
   </p>
